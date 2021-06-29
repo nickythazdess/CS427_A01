@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: 8983d27bb61d76944851dff6002610d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6414610087882814
+    second: Platformer-Pixel-Art-Tileset2_0
+  - first:
+      213: 1912898427773960176
+    second: Platformer-Pixel-Art-Tileset2_1
+  - first:
+      213: -295394025892327191
+    second: Platformer-Pixel-Art-Tileset2_2
+  - first:
+      213: -1672777679693691039
+    second: Platformer-Pixel-Art-Tileset2_3
+  - first:
+      213: 7670862119828862210
+    second: Platformer-Pixel-Art-Tileset2_4
+  - first:
+      213: 8303253466965913136
+    second: Platformer-Pixel-Art-Tileset2_5
+  - first:
+      213: 86123597798347634
+    second: Platformer-Pixel-Art-Tileset2_6
+  - first:
+      213: 8764571216812049835
+    second: Platformer-Pixel-Art-Tileset2_7
+  - first:
+      213: 781325519268659017
+    second: Platformer-Pixel-Art-Tileset2_8
+  - first:
+      213: -4708440649425054996
+    second: Platformer-Pixel-Art-Tileset2_9
+  - first:
+      213: 1390406837114761467
+    second: Platformer-Pixel-Art-Tileset2_10
+  - first:
+      213: 114311279884944874
+    second: Platformer-Pixel-Art-Tileset2_11
+  - first:
+      213: 1780461732878469589
+    second: Platformer-Pixel-Art-Tileset2_12
+  - first:
+      213: -7375927794572593420
+    second: Platformer-Pixel-Art-Tileset2_13
+  - first:
+      213: -4574018764890681072
+    second: Platformer-Pixel-Art-Tileset2_14
+  - first:
+      213: -2045829570500283009
+    second: Platformer-Pixel-Art-Tileset2_15
+  - first:
+      213: 2099142406053753021
+    second: Platformer-Pixel-Art-Tileset2_16
+  - first:
+      213: 7804030748384852640
+    second: Platformer-Pixel-Art-Tileset2_17
+  - first:
+      213: 5799295701785742220
+    second: Platformer-Pixel-Art-Tileset2_18
+  - first:
+      213: -5064416222822631596
+    second: Platformer-Pixel-Art-Tileset2_19
+  - first:
+      213: 4464081228115154518
+    second: Platformer-Pixel-Art-Tileset2_20
+  - first:
+      213: 8152362797183935905
+    second: Platformer-Pixel-Art-Tileset2_21
+  - first:
+      213: 8988398882793719578
+    second: Platformer-Pixel-Art-Tileset2_22
+  - first:
+      213: -7948363851927583128
+    second: Platformer-Pixel-Art-Tileset2_23
+  - first:
+      213: 1182533126654821913
+    second: Platformer-Pixel-Art-Tileset2_24
+  - first:
+      213: -9086910949506623344
+    second: Platformer-Pixel-Art-Tileset2_25
+  - first:
+      213: 7776892885874783187
+    second: Platformer-Pixel-Art-Tileset2_26
+  - first:
+      213: -1797614518991667837
+    second: Platformer-Pixel-Art-Tileset2_27
+  - first:
+      213: -6414935966805115253
+    second: Platformer-Pixel-Art-Tileset2_28
+  - first:
+      213: 2277402668122384868
+    second: Platformer-Pixel-Art-Tileset2_29
+  - first:
+      213: 893666073035821524
+    second: Platformer-Pixel-Art-Tileset2_30
+  - first:
+      213: 593691078188777061
+    second: Platformer-Pixel-Art-Tileset2_31
+  - first:
+      213: 8147604942724634675
+    second: Platformer-Pixel-Art-Tileset2_32
+  - first:
+      213: -2223346312099849053
+    second: Platformer-Pixel-Art-Tileset2_33
+  - first:
+      213: -2965592828362261237
+    second: Platformer-Pixel-Art-Tileset2_34
+  - first:
+      213: -6083498810901190090
+    second: Platformer-Pixel-Art-Tileset2_35
+  - first:
+      213: 2145660360679933559
+    second: Platformer-Pixel-Art-Tileset2_36
+  - first:
+      213: 5602236301018635323
+    second: Platformer-Pixel-Art-Tileset2_37
+  - first:
+      213: -6527586398240745382
+    second: Platformer-Pixel-Art-Tileset2_38
+  - first:
+      213: -829697171521094751
+    second: Platformer-Pixel-Art-Tileset2_39
+  - first:
+      213: -3169192348061269811
+    second: Platformer-Pixel-Art-Tileset2_40
+  - first:
+      213: 4532758224583393
+    second: Platformer-Pixel-Art-Tileset2_41
+  - first:
+      213: -482106946354204731
+    second: Platformer-Pixel-Art-Tileset2_42
+  - first:
+      213: 1999543217725529682
+    second: Platformer-Pixel-Art-Tileset2_43
+  - first:
+      213: 2387672049411929212
+    second: Platformer-Pixel-Art-Tileset2_44
+  - first:
+      213: -5997471180423047664
+    second: Platformer-Pixel-Art-Tileset2_45
+  - first:
+      213: 7242076505402528688
+    second: Platformer-Pixel-Art-Tileset2_46
+  - first:
+      213: 2564608351711241870
+    second: Platformer-Pixel-Art-Tileset2_47
+  - first:
+      213: -3604139447669889767
+    second: Platformer-Pixel-Art-Tileset2_48
+  - first:
+      213: 1598686189429423007
+    second: Platformer-Pixel-Art-Tileset2_49
+  - first:
+      213: -4539087583627252034
+    second: Platformer-Pixel-Art-Tileset2_50
+  - first:
+      213: -135647004447882680
+    second: Platformer-Pixel-Art-Tileset2_51
+  - first:
+      213: 5813810958366111873
+    second: Platformer-Pixel-Art-Tileset2_52
+  - first:
+      213: -4599675416111376012
+    second: Platformer-Pixel-Art-Tileset2_53
+  - first:
+      213: -3342870946961779877
+    second: Platformer-Pixel-Art-Tileset2_54
+  - first:
+      213: 6030970412674270802
+    second: Platformer-Pixel-Art-Tileset2_55
+  - first:
+      213: -666031500119178501
+    second: Platformer-Pixel-Art-Tileset2_56
+  - first:
+      213: 2245396696698433460
+    second: Platformer-Pixel-Art-Tileset2_57
+  - first:
+      213: 2079331364233581893
+    second: Platformer-Pixel-Art-Tileset2_58
+  - first:
+      213: -6369888394208629482
+    second: Platformer-Pixel-Art-Tileset2_59
+  - first:
+      213: -6842819284514229598
+    second: Platformer-Pixel-Art-Tileset2_60
+  - first:
+      213: 8895536963650106464
+    second: Platformer-Pixel-Art-Tileset2_61
+  - first:
+      213: 5839199156761581757
+    second: Platformer-Pixel-Art-Tileset2_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfc65432f539eff0800000000000000
+      internalID: -6414610087882814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffbede2cfafb8a10800000000000000
+      internalID: 1912898427773960176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e05ae1d2bc86ebf0800000000000000
+      internalID: -295394025892327191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167c7a5209919c8e0800000000000000
+      internalID: -1672777679693691039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205366db470647a60800000000000000
+      internalID: 7670862119828862210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_5
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea88229051b3370800000000000000
+      internalID: 8303253466965913136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739c85b4f8f13100800000000000000
+      internalID: 86123597798347634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba502b2c51302a970800000000000000
+      internalID: 8764571216812049835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 799
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb4fd8b63d7da00800000000000000
+      internalID: 781325519268659017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_9
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 606
+        width: 323
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2920dfc2248aeb0800000000000000
+      internalID: -4708440649425054996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ff73d6a7bb4310800000000000000
+      internalID: 1390406837114761467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5cc5fd08d169100800000000000000
+      internalID: 114311279884944874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c564438875b810800000000000000
+      internalID: 1780461732878469589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f19b00c073a990800000000000000
+      internalID: -7375927794572593420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01158b2ea22d580c0800000000000000
+      internalID: -4574018764890681072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75375b48d0cb93e0800000000000000
+      internalID: -2045829570500283009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fac585e6a12d10800000000000000
+      internalID: 2099142406053753021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_17
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa74bd3e9c7d4c60800000000000000
+      internalID: 7804030748384852640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 727
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b836cf6bc3b7050800000000000000
+      internalID: 5799295701785742220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4577eeb174497b9b0800000000000000
+      internalID: -5064416222822631596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6561b4aa93a93fd30800000000000000
+      internalID: 4464081228115154518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5224e55c2032170800000000000000
+      internalID: 8152362797183935905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17007c49253dbc70800000000000000
+      internalID: 8988398882793719578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660d4c503db1b190800000000000000
+      internalID: -7948363851927583128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91684650d93396010800000000000000
+      internalID: 1182533126654821913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098dc0dc2aec4e180800000000000000
+      internalID: -9086910949506623344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d334de30e21deb60800000000000000
+      internalID: 7776892885874783187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_27
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 655
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dba608e179d07e0800000000000000
+      internalID: -1797614518991667837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 589
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e34b9d9b199f6a0800000000000000
+      internalID: -6414935966805115253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 589
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e926f319a5fa9f10800000000000000
+      internalID: 2277402668122384868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 589
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d15e1ffe80f66c00800000000000000
+      internalID: 893666073035821524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 589
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb2cdd3e63d3800800000000000000
+      internalID: 593691078188777061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338915d078b121170800000000000000
+      internalID: 8147604942724634675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 583
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac1d961f461521e0800000000000000
+      internalID: -2223346312099849053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 582
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d7505f80918d6d0800000000000000
+      internalID: -2965592828362261237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 582
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a29b03012139ba0800000000000000
+      internalID: -6083498810901190090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_36
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 582
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c6f6dabae6cd10800000000000000
+      internalID: 2145660360679933559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c930edb342fbd40800000000000000
+      internalID: 5602236301018635323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58503461ca5965a0800000000000000
+      internalID: -6527586398240745382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb65481d25c74f0800000000000000
+      internalID: -829697171521094751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc00cecb954c404d0800000000000000
+      internalID: -3169192348061269811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea34d3058a101000800000000000000
+      internalID: 4532758224583393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf2fce59463f49f0800000000000000
+      internalID: -482106946354204731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_43
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 286
+        width: 258
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e529566fdcfbb10800000000000000
+      internalID: 1999543217725529682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 414
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74b3591417b22120800000000000000
+      internalID: 2387672049411929212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 414
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016dd34ccb3b4cca0800000000000000
+      internalID: -5997471180423047664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 413
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b358b42636018460800000000000000
+      internalID: 7242076505402528688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 414
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86afbf35b1579320800000000000000
+      internalID: 2564608351711241870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_48
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 288
+        width: 410
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915e9a494468bfdc0800000000000000
+      internalID: -3604139447669889767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_49
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 342
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b734c7e9caf2610800000000000000
+      internalID: 1598686189429423007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee28d44ebe101c0800000000000000
+      internalID: -4539087583627252034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 342
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c905a4c51e1ef0800000000000000
+      internalID: -135647004447882680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 341
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1887fa4834ecea050800000000000000
+      internalID: 5813810958366111873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 272
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4799594449baa20c0800000000000000
+      internalID: -4599675416111376012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 272
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b539e54c59cbb91d0800000000000000
+      internalID: -3342870946961779877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 272
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256475a03af42b350800000000000000
+      internalID: 6030970412674270802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_56
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 272
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf20d2221e7c1c6f0800000000000000
+      internalID: -666031500119178501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 578
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfab862660492f10800000000000000
+      internalID: 2245396696698433460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_58
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 200
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459877ebd44bdc10800000000000000
+      internalID: 2079331364233581893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61daf4c214c9997a0800000000000000
+      internalID: -6369888394208629482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 200
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a236549d1c6901a0800000000000000
+      internalID: -6842819284514229598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 200
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064b8b4ecbb437b70800000000000000
+      internalID: 8895536963650106464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platformer-Pixel-Art-Tileset2_62
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 30
+        width: 322
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d88712b0090150800000000000000
+      internalID: 5839199156761581757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
